@@ -1,5 +1,0 @@
-[ 2026-03-24 09:03:31,445 ] root - DEBUG - This is a debug message.
-[ 2026-03-24 09:03:31,448 ] root - INFO - This is an info message.
-[ 2026-03-24 09:03:31,448 ] root - WARNING - This is a warning message.
-[ 2026-03-24 09:03:31,448 ] root - ERROR - This is an error message.
-[ 2026-03-24 09:03:31,449 ] root - CRITICAL - This is a critical message.
