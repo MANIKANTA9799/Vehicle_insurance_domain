@@ -3,3 +3,9 @@ src/__pycache__/
 src/exception/__pycache__/
 src/logger/__pycache__/
 .vscode
+src/components/__pycache__/
+src/configuration/__pycache__/
+src/constants/__pycache__/
+src/data_access/__pycache__/
+src/entity/__pycache__/
+src/pipline/__pycache__/
