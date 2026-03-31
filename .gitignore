@@ -9,3 +9,9 @@ src/constants/__pycache__/
 src/data_access/__pycache__/
 src/entity/__pycache__/
 src/pipline/__pycache__/
+/logs
+artifact/03_30_2026_21_05_18/
+artifact/03_30_2026_21_08_41/
+artifact/03_30_2026_21_30_44/
+artifact/03_31_2026_09_42_23/
+src/utils/__pycache__/
